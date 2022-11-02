@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello World, I'm Heather 👋
+
+- Take a look here to learn more about my projects
+- Languages and Tools 
+
 
 <!--
 **heatherpark201/heatherpark201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
